@@ -1,8 +1,20 @@
  {
 "sites": [
-    {
-      "id": "cd6b1cbe-42bb-42d3-7844-9494716487e5",
+  
+ {
       "name": "全网影视免费看(智能机顶盒13707488633)",
+      "api": " https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "d24a2022-450a-48b6-9051-ac04b398dfdc",
+      "key": "d24a2022-450a-48b6-9051-ac04b398dfdc"
+    },
+  {
+      "id": "cd6b1cbe-42bb-42d3-7844-9494716487e5",
+      "name": "量子资源(241206)",
       "api": "http://www.lzzy.tv/api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
@@ -14,17 +26,6 @@
       "key": "cd6b1cbe-42bb-42d3-7844-9494716487e5"
     },
  {
-      "name": "极速资源(241206)",
-      "api": " https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
-      "playUrl": "",
-      "group": "切片",
-      "search": 1,
-      "isActive": true,
-      "type": 1,
-      "id": "d24a2022-450a-48b6-9051-ac04b398dfdc",
-      "key": "d24a2022-450a-48b6-9051-ac04b398dfdc"
-    },
-  {
       "id": "8ccd22d8-7405-eda1-668d-950260f50d1e",
       "name": "木耳资源(241206)",
       "api": "https://heimuer.tv/api.php/provide/vod/",
@@ -190,8 +191,8 @@
     },
     {
       "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
-      "name": "天空资源(240501)",
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "name": "一鱼资源(250326)",
+      "api": "https://yjtv.top/api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
       "group": "切片",
@@ -242,8 +243,8 @@
     },
     {
       "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
-      "name": "U酷资源(240501)",
-      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "name": "如意资源(250326)",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
       "group": "切片",
