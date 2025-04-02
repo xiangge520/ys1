@@ -52,7 +52,7 @@
     },  
 {
       "key": "糯米",
-      "name": "🇨🇳糯米┃影视(C250312)",
+      "name": "🇨🇳糯米┃高清(C250312)",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -201,18 +201,6 @@
       "filterable": 1,
       "jar": "http://m1839732.ca.caoni.ru/4/meow.php;md5;8F8C284CBD299B04F5CB309D6CA99210"
     },
-      {
-      "key": "nmys",
-      "name": "🇨🇳柠檬┃高清(Z250402)",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
-      "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
-    },
      {
       "key": "ssys",
       "name": "🇨🇳三三┃高清(Z250402)",
@@ -283,16 +271,6 @@
       "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
       "jar": "http://m1839732.ca.caoni.ru/4/meow.php;md5;8F8C284CBD299B04F5CB309D6CA99210"
     },
-  {
-      "key": "lwcl",
-      "name": "🇨🇳六维┃高清(Z250402)",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.xb6v.com/"
-    },
 
   {
       "key": "南瓜",
@@ -356,7 +334,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "caHR0cDovLzExMC40MC42NC4yMjU6ODk0NXxHOGt6QjF2WHdRcDlaN21GfEc4a3pCMXZYd1FwOVo3bUZ8MTAw"
+      "ext": "caHR0cHM6Ly9yeHlzeXlkcy5vc3MtY24tY2hlbmdkdS5hbGl5dW5jcy5jb20vZ2V0YXBwLnR4dHxlYmFkM2YxYTU4YjEzOTMzfGViYWQzZjFhNThiMTM5MzN8MTAw"
     },
    {
       "key": "星河",
