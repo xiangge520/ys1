@@ -1,11 +1,11 @@
 {
  
-  "spider": "./fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+"spider":"./jar.php?id=index&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;666c57f455b65af2bddc1791cfc45029",
   "wallpaper": "./cici.jpg",
  "logo":"./s.gif",
   "lives":[{"name":"live",
    "type":0,
-   "url":"https://notabug.org/HG520/YS/raw/main/feixiangdianshi4.1.txt",
+   "url":"https://assdf.mohuajz.eu.org/heihuaDS4.1.txt",
    "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
    "logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}
    ],
@@ -263,348 +263,72 @@
        "jar": "http://m1839732.ca.caoni.ru/4/meow.php;md5;8F8C284CBD299B04F5CB309D6CA99210"
      },
  
-   {
-       "key": "南瓜",
-       "name": "🍒南瓜┃App(Z250219)",
-       "type": 3,
-       "api": "csp_NanGua",
-       "playerType": 1,
-       "ext": "a73738aa4b82943d"
-     },
-     {
-       "key": "天天",
-       "name": "🍒天天┃App(Z250219)",
-       "type": 3,
-       "api": "csp_TTian",
-       "playerType": 1,
-       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
-     },
-     {
-       "key": "热播",
-       "name": "🍒热播┃App(Z250219)",
-       "type": 3,
-       "api": "csp_TTian",
-       "playerType": 1,
-       "ext": "caHR0cDovL3YucmJvdHYuY24="
-     },
-     {
-       "key": "追剧",
-       "name": "🍒追剧┃App(Z250219)",
-       "type": 3,
-       "api": "csp_TTian",
-       "playerType": 1,
-       "ext": "daHR0cDovL3YubGt1eXMuY24="
-     },
-     {
-       "key": "剧评",
-       "name": "🍒剧评┃App(Z250402)",
-       "type": 3,
-       "api": "csp_Jpys",
-       "playerType": 1,
-       "ext": "caHR0cHM6Ly93d3cuaHNrampnbG8uY29t"
-     },
-     {
-       "key": "巧技",
-       "name": "🍒巧技┃App(Z250219)",
-       "type": 3,
-       "api": "csp_qiao2",
-       "playerType": 2,
-       "ext": "./lib/cksp.txt"
-     }, 
-    {
-      "key": "巧技二",
-      "name": "🍒巧技┃仅搜(Z250417)",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext":       "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i1g411302gk7gj3k72h781gl8k9839kl7i0707"
-    },
-    {
-      "key": "巧技三",
-      "name": "🍒巧技┃4K(Z250417)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji"
-    },
-    {
-      "key": "juziys",
-      "name": "🍒橘子┃App(Z250417)",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "7lj763gg0939795i0qiaoji678i481k40hi2i3ghlg840i98j9667000134jg7k591gjjk9j5lg53255g2i7gl2749l3j2h8g5"
-    },
-    {
-      "key": "yizys",
-      "name": "🍒驿站┃App(Z250417)",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh "
-    },
-      {
-      "key": "主角",
-      "name": "🍒主角┃App(Z250417)",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "7lj763gg0939790g466487j0g95j82jil1qiaojig6j6j40j57hgi9g3i9i42k7ilk9i124lj80il9i1"
-    },  
-{
-       "key": "永夜",
-       "name": "🍒永夜┃App(Z250219)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 2,
-       "ext": "caHR0cHM6Ly9yeHlzeXlkcy5vc3MtY24tY2hlbmdkdS5hbGl5dW5jcy5jb20vZ2V0YXBwLnR4dHxlYmFkM2YxYTU4YjEzOTMzfGViYWQzZjFhNThiMTM5MzN8MTAw"
-     },
-    {
-      "key": "木头",
-      "name": "🍒木头┃App(Z250417)",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "7lj763gg0939790k5i39i4jkh9488386k4k6i952i1i62020535208l7lj004i16039g51g480038h986g53klijg6"
-    },
-    {
-      "key": "好客",
-      "name": "🍒好客┃App(Z250417)",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "7lj763gg402i7942503399i0h6489gjiljhhj910il8771225g4415l4lj02150l179l44g2965180ig3812h0iil7ki11g9k4786042k5h3j8kl22812gk477h5414ik9kl93hgkg266i29j112204797l45i677ih6l66h26k2jjgj819328"
-    },
-    {
-      "key": "专业",
-      "name": "🍒专业┃App(Z250417)",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "7lj763gg402i7942432l89j2hi5095jiljhhj910il8771225g4415l4lj02150l179l44g2965180ig3812h0iik5k557k6k0693g4glig6j7lj27962kl76hhg5g58k2lhikh1kk263g64ik0i6i1hi2kh5g6371g5lh6020kgihgj819828g5701k"
-    },  
 
-{
-       "key": "星河",
-       "name": "🍒星河┃App(Z250402)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 2,
-       "ext": "caHR0cDovL3Rlbmd4dW55dW5hbGl5dW4ub3NzLWNuLXNoYW5naGFpLmFsaXl1bmNzLmNvbS90ZW5neHVueXVuLnR4dHxmNWUydHg1M3lrcDZzMmM5fGY1ZTJ0eDUzeWtwNnMyYzl8MzYx"
-     },
-     {
-       "key": "油条",
-       "name": "🍒油条┃App(Z250402)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 2,
-       "ext": "caHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
-     },
-    {
-       "key": "23ys",
-       "name": "🍒二三┃App(Z250224)",
-       "type": 3,
-       "api": "csp_Muou",
-       "playerType": 2,
-       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-     }, 
-     {
-       "key": "时常",
-       "name": "🍒时常┃App(Z250224)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 1,
-       "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8YXNnY3hoamt0czEyNDU3M3xhc2djeGhqa3RzMTI0NTczfDEwMQ=="
-     }, 
-    {
-       "key": "雨滴",
-       "name": "🍒雨滴┃App(Z250315)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 1,
-       "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
-     },
-     {
-       "key": "现代",
-       "name": "🍒现代┃App(Z250219)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 1,
-       "ext": "caHR0cHM6Ly9jbXMud2xiYnEueHl6fHNkZXYxNXJ3c2E5NmZzZGV8c2RldjE1cndzYTk2ZnNkZXwzMDA="
-     },
-       {
-       "key": "淘气",
-       "name": "🍒淘气┃App(Z250402)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 1,
-       "ext": "jaHR0cHM6Ly9za2FwLm9zcy1jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20vZ2V0LnR4dHw0OTkwNDg4MjQ4OTA0ODg0fDQ5OTA0ODgyNDg5MDQ4ODR8MTA3"
-     },
-   {
-       "key": "玉米",
-       "name": "🍒玉米┃App(Z250315)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 1,
-       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
-     },
-      {
-       "key": "优质",
-       "name": "🍒优质┃App(Z250402)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 1,
-       "ext": "jaHR0cHM6Ly9sYnlzYXBpZHR5bWd4LjY4Lmd5OjE2Nzg5L2xieXNhcGlkdHltL2FwcC50eHR8YXBpYXBwbGJ5c2tleTE2OHxhcGlhcHBsYnlza2V5MTY4fDEwNw=="
-     },
-     {
-       "key": "木叶",
-       "name": "🍒木叶┃App(Z250402)",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 2,
-       "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
-     },
-     {
-       "key": "蝴蝶",
-       "name": "🍒蝴蝶┃App(Z250219)",
-       "type": 3,
-       "api": "csp_Hudie",
-       "playerType": 2,
-       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-     },
-      {
-       "key": "柠檬",
-       "name": "🍒柠檬┃App(Z250315)",
-       "type": 3,
-       "api": "csp_Nmvod",
-       "playerType": 2,
-       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
-     },
-     {
-      "key": "AI2",
-      "name": "🍒AI2┃搜索(Z250417)",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j400hlgh707531k54864lh88k5h9781740hh287h9k035k8kg697852k5lj9kh276i575jk6kgk444kkkl8j1gggj370h768h473015hll64h265j82hg5667h79k93j4jk16l6215l327l71i922ilh6499j4k9h66297k5gjh4ii39j5107h837lh5104k477449hj1104h1i384l164k779h4595jlkh577l8i6570l23h4hg71hj92243h9076glj4k1k3il2404gl2i4i445ii0ji55578"
-    },
-    {
-      "key": "AI3",
-      "name": "🍒AI3┃搜索(Z250417)",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j5203kgkg585g1k12j84jhl881j8396340hh487l3h30kk8l42l6851klhgjlk836ig69hj36k31i5ikhlki3gjli7k"
-    },
-     {
-       "key": "Dygang",
-       "name": "🍒影港┃APP(Z250219)",
-       "type": 3,
-       "api": "csp_Dygang"
-     },
-     {
-       "key": "Lib",
-       "name": "🍒Lib┃直连(Z250315)",
-       "type": 3,
-       "api": "csp_Lib",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "ext": "faHR0cHM6Ly93d3cubGlidmlvLmNjL3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
-     },
-     {
-       "key": "NoSearch_csp_DiDuan",
-       "name": "🍒低端┃无搜(Z250219)",
-       "type": 3,
-       "api": "csp_Ddrk",
-       "searchable": 1,
-       "playerType": 1,
-       "quickSearch": 1,
-       "filterable": 0
-     },
-     {
-       "key": "快看",
-       "name": "🍒快看┃直连(Z250219)",
-       "type": 3,
-       "api": "csp_Kuaikan",
-       "searchable": 1,
-       "playerType": 1,
-       "quickSearch": 1,
-       "filterable": 1
-     },
-     {
-       "key": "360_spider",
-       "name": "🍒360┃解析(Z250219)",
-       "api": "csp_SP360",
-       "type": 3,
-       "filterable": 1,
-       "quickSearch": 1,
-       "searchable": 1,
-       "playerType": 2,
-       "ext": ""
-     },
-     {
-       "key": "ZXZJ",
-       "name": "🍒在线┃直连(Z250219)",
-       "api": "csp_Zxzj",
-       "type": 3,
-       "filterable": 1,
-       "quickSearch": 1,
-       "searchable": 1,
-       "playerType": 2,
-       "ext": "caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="
-     },
-     {
-       "key": "csp_CZSPP",
-       "name": "🍒厂长┃直连(Z250219)",
-       "type": 3,
-       "api": "csp_Czsapp",
-       "searchable": 1,
-       "playerType": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "ext": "maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="
-     },
-      {
-       "key": "csp_sbb",
-       "name": "🍒布布┃直连(Z250315)",
-       "type": 3,
-       "api": "csp_Czsapp",
-       "searchable": 1,
-       "playerType": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw=="
-     },
-     {
-       "key": "csp_xlys",
-       "name": "🍒修罗┃直连(Z250315)",
-       "type": 3,
-       "api": "csp_Bdys01",
-       "searchable": 1,
-       "playerType": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-       "ext": "maHR0cHM6Ly93d3cueGx5czAyLmNvbQ=="
-     },
-     {
-       "key": "csp_Auete",
-       "name": "🍒Auete┃无搜(Z250219)",
-       "type": 3,
-       "api": "csp_Auete",
-       "searchable": 1,
-       "playerType": 1,
-       "quickSearch": 1,
-       "filterable": 1
-     },
-    
- 
+ {"key":"热播影视","name":"🍒热播┃影视(Z250511)","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
+
+{"key":"天天影视","name":"🍒天天┃影视(Z250511)","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"}},
+
+{"key":"移动","name":"🍒移动┃影视(Z250511)","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
+
+{"key":"快看影视","name":"🍒快看┃影视(Z250511)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"来看影视","name":"🍒来看┃影视(Z250511)","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"私人影视","name":"🍒私人┃影视(Z250511)","type":3,"api":"csp_Siren"},
+
+{"key":"尘落影视","name":"🍒尘落┃影视(Z250511)","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
+
+{"key":"糯米影视","name":"🍒糯米┃影视(Z250511)","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
+
+{"key":"HG影视","name":"🍒HG┃影视(Z250511)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cs.hgyx.vip/api2/api.php/app/"},
+
+{"key":"QD4K","name":"🍒蝴蝴┃影视(Z250511)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://172.83.156.150:1010/api.php/app/"},
+
+{"key":"全网影视","name":"🍒全看┃影视(Z250511)","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
+
+{"key":"鸭梨影视","name":"🍒鸭梨┃影视(Z250511)","type":3,"api":"csp_KmeiJu"},
+
+{"key":"绝对影视","name":"🍒绝对┃影视(Z250511)","type":3,"api":"csp_FourK","ext":"https://www.4kvm.tv"},
+
+{"key":"浪酷影视","name":"🍒浪酷┃影视(Z250511)","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
+
+{"key":"二三","name":"🍒二三┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppMuou","ext":{"url":"http://cs4.123ysw.com","dataKey":"d3238930e3ae0724","dataIv":"d3238930e3ae0724","jxurl":"https://123ysw.com"}},
+
+{"key":"驿站","name":"🍒驿站┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppMuou","ext":{"url":"http://110.42.107.216:56677","dataKey":"d7378557d1d9c924","dataIv":"fb4594f622f34fea","jxurl":"https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"}},
+
+{"key":"永夜","name":"🍒永夜┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppMuou","ext":{"url":"http://cms.neyym.cn","dataKey":"66247d82fcfaeda9","dataIv":"70691065ee3c4c54","jxurl":"http://app.neyym.cn"}},
+
+{"key":"雨滴","name":"🍒雨滴┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":"100"}},
+
+{"key":"优质","name":"🍒优质┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://apiapplbys.lbys.cc:5678","dataKey":"apiapplbyskey168","dataIv":"apiapplbyskey168","deviceId":"","version":"107"}},
+
+{"key":"光速","name":"🍒光速┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://59.153.167.137:8899","dataKey":"4d83b87c4c5ea111","dataIv":"4d83b87c4c5ea111","deviceId":"","version":"462"}},
+
+{"key":"格格","name":"🍒格格┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://111.180.198.40:1110","dataKey":"asgcxhjkts124573","dataIv":"asgcxhjkts124573","deviceId":"","version":"119"}},
+
+{"key":"晴天","name":"🍒晴天┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.sun4k.top","dataKey":"b025dcd9c289cbb3","dataIv":"b025dcd9c289cbb3","deviceId":"","version":""}},
+
+{"key":"在看","name":"🍒在看┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://149.88.64.161:9525","dataKey":"123456789ABCDEFG","dataIv":"123456789ABCDEFG","deviceId":"","version":""}},
+
+{"key":"星河","name":"🍒星河┃影视(Z250511)","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://121.62.22.204:9876","dataKey":"f5e2tx53ykp6s2c9","dataIv":"f5e2tx53ykp6s2c9","deviceId":"","version":"361"}},
+
+{"key":"三六零","name":"🍒三六┃影视(Z250511)","type":3,"api":"csp_SP360"},  
+
+{"key":"1905","name":"🍒1905┃影视(Z250511)","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
+
+{"key":"瓜子影视","name":"🍒瓜子┃影视(Z250511)","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"海纳影视","name":"🍒海纳┃影视(Z250511)","type":3,"api":"csp_XBPQ","ext":"./lib/海纳影视.json"},
+
+{"key":"雪糕影视","name":"🍒雪糕┃影视(Z250511)","type":3,"api":"csp_XBPQ","ext":"./lib/雪糕影视.json"},
+
+{"key":"永乐影视","name":"🍒永乐┃影视(Z250511)","type":3,"api":"csp_XBPQ","ext":"./lib/永乐影视.json"},
+
+{"key":"星芽短剧","name":"🍒星芽┃短剧(Z250511)","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+
+{"key":"荐片影视","name":"🍒荐片┃影视(Z250511)","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"},
+
+
   {
          "key": "caiji_极速资源",
          "name": "🍒极速┃高清(C250219)",
@@ -1184,6 +908,7 @@
        },
  
    {"key":"卧龙资源","name":"🍒卧龙┃资源(C250219)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+   
    {"key":"百度资源","name":"🍒百度┃资源(C250219)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
  
   
@@ -1198,18 +923,7 @@
    
  {"key":"csp_FirstAid","name":"🍒急救┃教学(机顶盒 电脑 电器维护13707488633)
    ","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"jar":"http://www.lyyytv.cn/yt/yt.jar","style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"}, 
- 
-  {
-       "key": "NoSearch_csp_BBB",
-       "name": "🍒哔哩┃合集(机顶盒 电脑 电器维护13707488633)",
-       "type": 3,
-       "api": "csp_Bili",
-       "searchable": 1,
-       "quickSearch": 0,
-       "filterable": 1,
-       "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
-     },  
-    
+     
    {
        "key": "qydh",
        "name": "🍒奇艺┃动画(机顶盒 电脑 电器维护13707488633)",
@@ -1328,7 +1042,7 @@
  
    {
        "key": "push_agent",
-       "name": "🍒推送(250417更新)",
+       "name": "🍒数据┃更新(250511)",
        "type": 3,
        "api": "csp_PushAgent",
        "searchable": 0,
