@@ -25,21 +25,134 @@
       "api": "https://gitee.com/fx520_1/ys/raw/main/lib/drpy2.js",
       "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/南瓜.js"
     },
+ {
+      "key": "360资源",
+      "name": "🍒360┃高清(C250219)",
+      "type": 1,
+      "changeable": 0,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "爽文短剧",
+        "国产剧",
+        "国产动漫",
+        "动画电影",
+        "网络电影",
+        "动作片",
+        "喜剧片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "国产综艺"
+      ]
+    },
 
+ {
+      "key": "zycj_暴風",
+      "name": "🍒暴風┃影视(C250219)",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?wd=",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "港剧",
+        "韩剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "台剧",
+        "日剧",
+        "海外剧",
+        "泰剧",
+        "大陆综",
+        "艺港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "电影解说",
+        "体育",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "预告片",
+        "短剧"
+      ]
+    },
+
+ {
+      "key": "速播蓝光",
+      "name": "🍒速播┃蓝光(C250219)",
+      "type": 1,
+      "api": "http://www.subozy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+ {
+      "key": "看影秒播",
+      "name": "🍒看影┃秒播(C250219)",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "http://host407776532.s1169.pppf.com.cn/app/hysxb.txt",
+      "filterable": 1
+    },
+  {
+         "key": "黑墙影视",
+         "name": "🍒黑墙┃快播(C250219)",
+         "type": 1,
+         "api": "https://blackwallvideo.online/api.php/provide/vod/",
+         "searchable": 1,
+         "quickSearch": 1
+       },
  {
          "key": "猫咪资源",
          "name": "🍒猫咪┃采集(C250219)",
          "type": 1,
          "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
    },
-   {      "key": "速博资源",     
-             "name": "🍒速播┃采集(C250219)",    
-             "type": 1,     
-              "api": "https://subocaiji.com/api.php/provide/vod/",   
-               "playUrl": "",    
-               "searchable": 1,    
-               "quickSearch": 1   
-    },    
+ {
+      "key": "免费电影",
+      "name": "🍒免费┃采集(C250621)",
+      "type": 1,
+      "api": "https://www.37kao.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "人人资源",
+      "name": "🍒人人┃采集(C250621)",
+      "type": 1,
+      "api": "https://www.rrys.lv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
    {
   "key": "zycj_1080",
   "name": "🍒1080┃采集(C250609)",
@@ -306,6 +419,7 @@
        "jar": "http://m1839732.ca.caoni.ru/4/meow.php;md5;8F8C284CBD299B04F5CB309D6CA99210"
      },
  
+
    {
        "key": "南瓜",
        "name": "🍒南瓜┃App(Z250219)",
@@ -453,7 +567,113 @@
        "ext": "maHR0cHM6Ly93d3cueGx5czAyLmNvbQ=="
      },
   
-    
+{
+      "key": "阿里资源",
+      "name": "🍒阿里┃采集(C250621)",
+      "type": 1,
+      "api": "https://alivod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "红牛资源",
+      "name": "🍒红牛┃采集(C250621)",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "一鱼资源",
+      "name": "🍒人人┃采集(C250621)",
+      "type": 1,
+      "api": "https://yjtv.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "七七资源",
+      "name": "🍒七七┃采集(C250621)",
+      "type": 1,
+      "api": "https://www.5277kp.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "老子资源",
+      "name": "🍒老子┃采集(C250621)",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "如意资源",
+      "name": "🍒如意┃采集(C250621)",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "神马资源",
+      "name": "🍒神马┃采集(C250621)",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "魔都资源",
+      "name": "🍒魔都┃采集(C250621)",
+      "type": 1,
+      "api": "https://moduzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "一周资源",
+      "name": "🍒一周┃采集(C250621)",
+      "type": 1,
+      "api": "http://www.mandao.site/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "三八资源",
+      "name": "🍒三八┃采集(C250621)",
+      "type": 1,
+      "api": "https://vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "微吧资源",
+      "name": "🍒微吧┃采集(C250621)",
+      "type": 1,
+      "api": "https://hw8.live/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "虎牙资源",
+      "name": "🍒虎牙┃采集(C250621)",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "樱花资源",
+      "name": "🍒樱花┃采集(C250621)",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+
+  
   {
          "key": "caiji_极速资源",
          "name": "🍒极速┃高清(C250219)",
@@ -678,7 +898,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://notabug.org/FX520/FX/raw/main/lib/py_cctv.json"},
+   "ext": "http://fx520.web3v.work/lib/py_cctv.json"},
     
   {"key":"py_cctvdc",
    "name":"🍒央视┃片库(Z250219)",
@@ -687,7 +907,7 @@
    "searchable":1,
    "quickSearch":1,
    "filterable":1,
-   "ext":"https://notabug.org/FX520/FX/raw/main/lib/py_cctvdc.json"},
+   "ext":"http://fx520.web3v.work/lib/py_cctvdc.json"},
    {
          "key": "鸣人资源",
          "name": "🍒鸣人┃采集(C250219)",
@@ -750,60 +970,7 @@
            "欧美综艺"
          ]
        },
-     {
-         "key": "360资源",
-         "name": "🍒360┃采集(C250219)",
-         "type": 1,
-         "api": "https://360zy.com/api.php/provide/vod",
-         "playUrl": "",
-         "categories": [
-           "国产剧",
-           "国产动漫",
-           "香港剧",
-           "台湾剧",
-           "欧美剧",
-           "日韩动漫",
-           "NBA",
-           "短片",
-           "西部片",
-           "综艺片",
-           "动漫片",
-           "动作片",
-           "喜剧片",
-           "爱情片",
-           "科幻片",
-           "恐怖片",
-           "惊悚片",
-           "悬疑片",
-           "犯罪片",
-           "剧情片",
-           "战争片",
-           "家庭篇",
-           "记录片",
-           "历史片",
-           "动漫片",
-           "大陆综艺",
-           "港台综艺"
-         ]
-       },
-    {
-         "key": "黑墙影视",
-         "name": "🍒黑墙┃快播(C250219)",
-         "type": 1,
-         "api": "https://blackwallvideo.online/api.php/provide/vod/",
-         "searchable": 1,
-         "quickSearch": 1
-       },
-   {
-         "key": "看影秒播",
-         "name": "🍒看影┃秒播(C250219)",
-         "type": 3,
-         "api": "csp_Kuaikan",
-         "searchable": 1,
-         "quickSearch": 1,
-         "jar": "http://host407776532.s1169.pppf.com.cn/app/hysxb.txt",
-         "filterable": 1
-       },
+    
   {
          "key": "黑木耳资源",
          "name": "🍒木耳┃蓝光(C250219)",
@@ -850,15 +1017,6 @@
          "searchable": 1,
          "quickSearch": 1
        },
-    {
-         "key": "速播🏮蓝光",
-         "name": "🍒速播┃蓝光(C250219)",
-         "type": 1,
-         "api": "https://subocaiji.com/api.php/provide/vod/",
-         "playUrl": "",
-         "searchable": 1,
-         "quickSearch": 1
-       },
    {
          "key": "飘零影院",
          "name": "🍒飘零┃影院(C250219)",
@@ -875,47 +1033,7 @@
          "searchable": 1,
          "quickSearch": 1
        },
- {
-         "key": "🔱黄金",
-         "name": "🍒黄金┃影视(C250219)",
-         "type": 1,
-         "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "playerType": 2,
-         "categories": [
-           "动作片",
-           "喜剧片",
-           "科幻片",
-           "恐怖片",
-           "爱情片",
-           "剧情片",
-           "战争片",
-           "纪录片",
-           "国产剧",
-           "欧美剧",
-           "犯罪片",
-           "香港剧",
-           "韩国剧",
-           "台湾剧",
-           "日本剧",
-           "海外剧",
-           "其他片",
-           "悬疑片",
-           "奇幻片",
-           "动画片",
-           "国产动漫",
-           "日韩动漫",
-           "欧美动漫",
-           "港台动漫",
-           "海外动漫",
-           "大陆综艺",
-           "港台综艺",
-           "日韩综艺",
-           "欧美综艺"
-         ]
-       },
+
        {
          "key": "🔱｜专线⑬🏅",
          "name": "🍒黄金┃专线(C250219)",
@@ -1168,7 +1286,7 @@
     },
    {
        "key": "push_agent",
-       "name": "🍒数据┃更新(250609)",
+       "name": "🍒数据┃更新(250621)",
        "type": 3,
        "api": "csp_PushAgent",
        "searchable": 0,
