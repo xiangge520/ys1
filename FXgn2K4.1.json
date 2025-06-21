@@ -63,7 +63,7 @@
       "key": "zycj_暴風",
       "name": "🍒暴風┃影视(C250219)",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?wd=",
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/?wd=",
       "playUrl": "",
       "categories": [
         "国产剧",
