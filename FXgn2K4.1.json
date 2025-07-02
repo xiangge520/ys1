@@ -13,7 +13,7 @@
     
  {
      "key": "豆瓣",
-     "name": "全网免费追剧智能机顶盒(13707488633)",
+     "name": "电脑-电器维修 影视APP-智能盒子专卖(13707488633)",
      "type": 3,
      "api": "./lib/drpy2.min.js",
      "ext": "./js/douban.js"
@@ -140,7 +140,7 @@
       "key": "猫咪资源",
       "name": "🍒猫咪┃采集(C250506)",
       "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
+      "api": "http://zy.xmm.hk/api.php/provide/vod"
     },
      {
   "key": "zycj_1080",
