@@ -563,18 +563,18 @@
 
 
   
-  {
+{
          "key": "caiji_极速资源",
          "name": "🍒极速┃高清(C250219)",
          "type": 1,
-         "api": "https://jszyapi.com/api.php/provide/vod/"
+         "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8"
        },   
   {
          "key": "zycj_量子",
          "name": "🍒量子┃高清(C250219)",
          "type": 0,
-         "api": "https://cj.lziapi.com/api.php/provide/vod/"
-       },     
+         "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
+       },   
       
    {"key":"索尼资源","name":"🍒索尼┃高清(C250219)","type":1,"api":"https://suoniapi.com/api.php/provide/vod/"},
    
