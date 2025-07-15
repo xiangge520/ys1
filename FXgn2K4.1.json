@@ -108,7 +108,7 @@
       "key": "360资源",
       "name": "🍒360┃高清(C250506)",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod"
+      "api": "https://360zy2.com/api.php/provide/vod"
     },
  {
       "key": "速播蓝光",
@@ -130,10 +130,10 @@
         "api": "https://blackwallvideo.online/api.php/provide/vod/"   
   },  
 {
-       "key":"火狐",
-        "name":"🍒火狐┃采集(C250506)",
+       "key":"豪华",
+        "name":"🍒豪华┃采集(C250506)",
        "type":1,
-       "api":"https://hhzyapi.com/api.php/provide/vod"
+       "api":"https://haohuazy.com/api.php/provide/vod"
   }, 
 
 {
@@ -524,7 +524,7 @@
       "key": "神马资源",
       "name": "🍒神马┃采集(C250621)",
       "type": 1,
-      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "api": "https://vod38.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -545,18 +545,10 @@
       "quickSearch": 1
     },
 {
-      "key": "三八资源",
-      "name": "🍒三八┃采集(C250621)",
+      "key": "华为资源",
+      "name": "🍒华为┃采集(C250621)",
       "type": 1,
-      "api": "https://vod38.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-{
-      "key": "微吧资源",
-      "name": "🍒微吧┃采集(C250621)",
-      "type": 1,
-      "api": "https://hw8.live/api.php/provide/vod/",
+      "api": "https://cjhwba.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -576,27 +568,19 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-
-  
   {
          "key": "caiji_极速资源",
          "name": "🍒极速┃高清(C250219)",
          "type": 1,
-         "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8"
+         "api": "https://jszyapi.com/api.php/provide/vod/"
        },   
   {
          "key": "zycj_量子",
          "name": "🍒量子┃高清(C250219)",
          "type": 0,
-         "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
+         "api": "https://cj.lziapi.com/api.php/provide/vod/"
        },     
-    {
-         "key": "caiji_豪华资源",
-         "name": "🍒豪华┃高清(C250219)",
-         "type": 1,
-         "api": "https://hhzyapi.com/api.php/provide/vod/at/json"
-       },
+ 
       
    {"key":"索尼资源","name":"🍒索尼┃高清(C250219)","type":1,"api":"https://suoniapi.com/api.php/provide/vod/"},
    
@@ -708,12 +692,7 @@
    "quickSearch":1,
    "filterable":1,
    "ext":"http://fx520.web3v.work/lib/py_cctvdc.json"},
-   {
-         "key": "鸣人资源",
-         "name": "🍒鸣人┃采集(C250219)",
-         "type": 1,
-         "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list"
-       },
+ 
        {
          "key": "黑木资源",
          "name": "🍒木耳┃采集(C250219)",
@@ -726,32 +705,13 @@
          "type": 1,
          "api": "https://www.nuuub.com/api.php/provide/vod/"
        },
-  {
-         "key": "一舟影院",
-         "name": "🍒一舟┃采集(C250219)",
-         "type": 1,
-         "api": "http://www.mandao.site/api.php/provide/vod/"
-       },
-    {
-         "key": "三八资源",
-         "name": "🍒三八┃采集(C250219)",
-         "type": 1,
-         "api": "https://vod38.com/api.php/provide/vod/"
-       },
    {
          "key": "闪电资源",
          "name": "🍒闪电┃采集(C250219)",
          "type": 1,
          "api": "https://shandianzy.com/api.php/provide/vod/"
        },
-    
-  {
-         "key": "黑木耳资源",
-         "name": "🍒木耳┃蓝光(C250219)",
-         "type": 1,
-         "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list"
-       },
-   {
+       {
          "key": "金鹰🏮蓝光",
          "name": "🍒金鹰┃蓝光(C250219)",
          "type": 1,
@@ -777,17 +737,6 @@
          "quickSearch": 1
        },
 
-       {
-         "key": "🔱｜专线⑬🏅",
-         "name": "🍒黄金┃专线(C250219)",
-         "type": 3,
-         "api": "csp_XBPQ",
-         "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy8.json"
-       },
    {
          "key": "光速资源",
          "name": "🍒光速┃资源(C250219)",
@@ -928,56 +877,6 @@
        "changeable": 0,
        "ext": "http://www.meowtv.cn/js/meow.php?file=etqm"
      },
-  {
-      "key": "dtgx",
-      "name": "🍒灯塔┃国学(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=dtgx"
-    },
-    {
-      "key": "sejy",
-      "name": "🍒少儿┃教育(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=sejy"
-    },
-    {
-      "key": "xxkt",
-      "name": "🍒小学┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=xxkt"
-    },
-    {
-      "key": "czkt",
-      "name": "🍒初中┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=czkt"
-    },
-    {
-      "key": "gzkt",
-      "name": "🍒高中┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=gzkt"
-    },
    {
        "key": "push_agent",
        "name": "🍒数据┃更新(250621)",
