@@ -873,56 +873,6 @@
        "changeable": 0,
        "ext": "http://www.meowtv.cn/js/meow.php?file=etqm"
      },
-  {
-      "key": "dtgx",
-      "name": "🍒灯塔┃国学(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=dtgx"
-    },
-    {
-      "key": "sejy",
-      "name": "🍒少儿┃教育(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=sejy"
-    },
-    {
-      "key": "xxkt",
-      "name": "🍒小学┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=xxkt"
-    },
-    {
-      "key": "czkt",
-      "name": "🍒初中┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=czkt"
-    },
-    {
-      "key": "gzkt",
-      "name": "🍒高中┃课堂(机顶盒 电脑 电器维护13707488633)",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=gzkt"
-    },
    {
        "key": "push_agent",
        "name": "🍒数据┃更新(250621)",
