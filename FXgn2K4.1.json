@@ -97,7 +97,13 @@
        "ext": "daHR0cDovL3YubGt1eXMuY24=",
        "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
      },
-     
+   
+{
+      "key": "魔爪影视",
+      "name": "🍒魔爪┃采集(C250720)",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/" 
+    },  
  {
       "key": "zycj_暴風",
       "name": "🍒暴風┃影视(C250506)",
@@ -116,7 +122,6 @@
       "type": 1,
       "api": "http://www.subozy.com/api.php/provide/vod/"
     },
-
 {
       "key": "人人APP",
       "name": "🍒人人┃采集(C250506)",
@@ -144,7 +149,7 @@
     },
      {
   "key": "zycj_1080",
-  "name": "🌠1080┃采集(C250609)",
+  "name": "🍒1080┃采集(C250609)",
   "type": 1,
   "api": "https://1080zyk3.com/inc/apijson.php"
   },  
@@ -165,6 +170,12 @@
       "api": "https://www.37kao.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
+    },
+ {
+      "key": "无尽影视",
+      "name": "🍒无尽┃采集(C250720)",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod"
     },
 
 {
