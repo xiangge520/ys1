@@ -49,42 +49,6 @@
        "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
        "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
      },   
-{
-       "key": "热门",
-       "name": "🍒热门┃高清(C250402)",
-       "type": 3,
-       "api": "csp_TTian",
-       "playerType": 1,
-       "ext": "caHR0cDovL3YucmJvdHYuY24="
-     },
-   {
-       "key": "HD",
-       "name": "🍒HD┃高清(C250402)",
-       "type": 3,
-       "api": "csp_Hudie",
-       "playerType": 2,
-       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-     },  
- {
-       "key": "糯米",
-       "name": "🍒糯米┃高清(C250312)",
-       "type": 3,
-       "api": "csp_Nmvod",
-       "playerType": 2,
-       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
-     },   
-{
-       "key": "rbys",
-       "name": "🍒热播┃高清(Z250315)",
-       "type": 3,
-       "api": "csp_TTian",
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 1,
-       "playerType": 1,
-       "ext": "caHR0cDovL3YucmJvdHYuY24=",
-       "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
-     },
      {
        "key": "zjys",
        "name": "🍒追剧┃高清(Z250315)",
@@ -105,6 +69,13 @@
       "api": "https://mozhuazy.com/api.php/provide/vod/" 
     },  
  {
+      "key": "人人APP",
+      "name": "🍒人人┃采集(C250506)",
+      "type": 1,
+      "api": "https://www.rrys.lv/api.php/provide/vod"
+    },
+
+{
       "key": "zycj_暴風",
       "name": "🍒暴風┃影视(C250506)",
       "type": 1,
@@ -122,12 +93,6 @@
       "type": 1,
       "api": "http://www.subozy.com/api.php/provide/vod/"
     },
-{
-      "key": "人人APP",
-      "name": "🍒人人┃采集(C250506)",
-      "type": 1,
-      "api": "https://www.rrys.lv/api.php/provide/vod"
-    },
   {
         "key": "黑墙影视",
         "name": "🍒黑墙┃采集(C250506)",
@@ -140,6 +105,18 @@
        "type":1,
        "api":"https://haohuazy.com/api.php/provide/vod"
   }, 
+{
+         "key": "caiji_极速资源",
+         "name": "🍒极速┃高清(C250219)",
+         "type": 1,
+         "api": "https://www.jisuzy.com/api.php/provide/vod/from/jsm3u8"
+       },   
+  {
+         "key": "zycj_量子",
+         "name": "🍒量子┃高清(C250219)",
+         "type": 0,
+         "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
+       },   
 
 {
       "key": "猫咪资源",
@@ -177,6 +154,32 @@
       "type": 1,
       "api": "https://api.wujinapi.com/api.php/provide/vod"
     },
+      
+   {"key":"索尼资源","name":"🍒索尼┃高清(C250219)","type":1,"api":"https://suoniapi.com/api.php/provide/vod/"},
+   
+   {"key":"非凡资源","name":"🍒非凡┃高清(C250219)","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/"},
+
+     {
+      "key": "鸭鸭影视",
+      "name": "🍒鸭鸭┃采集(C250820)",
+      "type": 1,
+      "api": "https://yayazy2.com/api.php/provide/vod/" 
+    },
+
+{
+      "key": "可视影视",
+      "name": "🍒可视┃采集(C250820)",
+      "type": 1,
+      "api": "https://www.ketv.cc/api.php/provide/vod/" 
+    },
+ {
+      "key": "舒渡影视",
+      "name": "🍒舒渡┃采集(C250820)",
+      "type": 1,
+      "api": "https://zyz.sdys.love/api.php/provide/vod/" 
+    },
+
+
 
 {
        "key": "jpys",
@@ -573,24 +576,6 @@
     },
 
 
-  
-{
-         "key": "caiji_极速资源",
-         "name": "🍒极速┃高清(C250219)",
-         "type": 1,
-         "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8"
-       },   
-  {
-         "key": "zycj_量子",
-         "name": "🍒量子┃高清(C250219)",
-         "type": 0,
-         "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
-       },   
-      
-   {"key":"索尼资源","name":"🍒索尼┃高清(C250219)","type":1,"api":"https://suoniapi.com/api.php/provide/vod/"},
-   
-   {"key":"非凡资源","name":"🍒非凡┃高清(C250219)","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/"},
-  
    {
          "key": "csp_瓜子",
          "name": "🍒瓜子┃高清(C250219)",
@@ -763,26 +748,12 @@
          "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
          "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
        },
-  {
-         "key": "drpy_js_B站影视",
-         "name": "🍒B站┃影视(C250219)",
-         "type": 3,
-         "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/B站影视.js"
-       },
     {
          "key": "drpy_js_哔哩影视",
          "name": "🍒哔哩┃影视(C250219)",
          "type": 3,
          "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
          "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
-       },
-   {
-         "key": "drpy_js_69美剧",
-         "name": "🍒69┃美剧(C250219)",
-         "type": 3,
-         "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-         "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
        },
    {
          "key": "drpy_js_看了么",
@@ -909,7 +880,7 @@
          "url": "Sequence"
        },
 
-{"name":"影趣",  "url":"https://yingqu.icu/dpplay/?url="},
+{"name":"影趣",  "url":"https://yingqu1.com/dpplay/?url="},
 
 {
          "name": "高清",
@@ -991,15 +962,13 @@
         }
       } ,
 
-{ "name": "虾米", "type": 0,"url":"https://jx.xmflv.com/?url="  },
-
 {"name":"瓜子","url":"https://www.xnmvod.cc/?url="},
+
+{ "name": "虾米", "type": 0,"url":"https://jx.xmflv.com/?url="  },
 
 {"name":"如意","url":"https://ryplayer.com?url="},
 
-{"name":"华为","url":"https://player.hw8.lol/player?url="},
-
-{"name": "web聚合","type": 3,"url": "Web"}],    
+{"name":"华为","url":"https://player.hw8.lol/player?url="}],    
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩" ,"wasu", "seven", "m78"],
    
